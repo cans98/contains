@@ -1,0 +1,6 @@
+C:\Users\alibs\source\repos\contains_method\contains_method\bin\Debug\contains_method.exe.config
+C:\Users\alibs\source\repos\contains_method\contains_method\bin\Debug\contains_method.exe
+C:\Users\alibs\source\repos\contains_method\contains_method\bin\Debug\contains_method.pdb
+C:\Users\alibs\source\repos\contains_method\contains_method\obj\Debug\contains_method.csproj.CoreCompileInputs.cache
+C:\Users\alibs\source\repos\contains_method\contains_method\obj\Debug\contains_method.exe
+C:\Users\alibs\source\repos\contains_method\contains_method\obj\Debug\contains_method.pdb
